@@ -1,10 +1,10 @@
 plugins {
-    id 'org.springframework.boot' version '2.6.6'
+    id 'org.springframework.boot' version '2.5.12'
     id 'io.spring.dependency-management' version '1.0.11.RELEASE'
     id 'java'
 }
 
-group = 'htw.bachelor.microservices.core.users'
+group = 'htw.bachelor.microservices.core.message'
 version = '1.0.0-SNAPSHOT'
 sourceCompatibility = '1.8'
 
