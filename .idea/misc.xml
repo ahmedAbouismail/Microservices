@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/api" />
     <file type="web" url="file://$PROJECT_DIR$/microservices/chat-composite-service" />
+    <file type="web" url="file://$PROJECT_DIR$/microservices/chat-service" />
     <file type="web" url="file://$PROJECT_DIR$/microservices/message-service" />
     <file type="web" url="file://$PROJECT_DIR$/microservices/status-service" />
     <file type="web" url="file://$PROJECT_DIR$/microservices/users-service" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="adopt-16" project-jdk-type="JavaSDK" />
 </project>
