@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/api" />
     <file type="web" url="file://$PROJECT_DIR$/microservices/chat-composite-service" />
+    <file type="web" url="file://$PROJECT_DIR$/microservices/chat-members-service" />
     <file type="web" url="file://$PROJECT_DIR$/microservices/chat-service" />
     <file type="web" url="file://$PROJECT_DIR$/microservices/message-service" />
     <file type="web" url="file://$PROJECT_DIR$/microservices/status-service" />
